@@ -1,3 +1,5 @@
 jupyter
 pycrypto
 ipy-table
+bcrypt
+
