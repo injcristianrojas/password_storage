@@ -8,17 +8,14 @@ password storage algorithms:
 
 ## Setup
 
-You need Python for this. This was tested with Python 2.7.12 on a Fedora machine
-with a virtual environment
-(<https://virtualenvwrapper.readthedocs.io/en/latest/>), which I encourage to
-use for setup and running of the code. Run `pip install -r requirements.txt`
-inside your virtual environment and all dependencies will be installed.
+You need Python and [Pipenv](https://github.com/pypa/pipenv) for this.
 
 ## Run the demo
 
-Now, run the demo using the following command:
+Now, run the demo using the following commands:
 
 ```shell
+pipenv shell
 jupyter notebook
 ```
 
