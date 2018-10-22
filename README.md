@@ -8,14 +8,18 @@ password storage algorithms:
 
 ## Setup
 
-You need Python and [Pipenv](https://github.com/pypa/pipenv) for this.
+You need Python 2 for this. Python 3 support is unstable.
+Install the packages (ideally, inside a virtualenv) using:
+
+```shell
+pip install -r requirements.txt
+```
 
 ## Run the demo
 
-Now, run the demo using the following commands:
+Now, run the demo using the following command:
 
 ```shell
-pipenv shell
 jupyter notebook
 ```
 
