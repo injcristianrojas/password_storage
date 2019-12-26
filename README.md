@@ -8,8 +8,7 @@ password storage algorithms:
 
 ## Setup
 
-You need Python 2 for this. Python 3 support is unstable.
-Install the packages (ideally, inside a virtualenv) using:
+You need Python 3 for this. Install the packages (preferably, inside a virtualenv) using:
 
 ```shell
 pip install -r requirements.txt
