@@ -1,4 +1,4 @@
-jupyter
+jupyterlab
 ipy-table
 bcrypt
 numpy
