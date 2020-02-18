@@ -1,4 +1,5 @@
 jupyterlab
 ipy-table
-bcrypt
 numpy
+bcrypt
+argon2-cffi
