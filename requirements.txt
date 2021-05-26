@@ -1,4 +1,3 @@
 jupyterlab
-ipy-table
-numpy
+pandas
 bcrypt
